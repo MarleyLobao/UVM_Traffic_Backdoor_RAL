@@ -23,4 +23,5 @@ package traffic_pkg;
 
   `include "traffic_base_test.svh"
   `include "traffic_reg_rw_test.svh"
+  `include "traffic_reg_ro_test.svh"
 endpackage
